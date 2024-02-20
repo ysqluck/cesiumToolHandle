@@ -1,0 +1,24 @@
+{
+  "name": "cesium-handle",
+  "version": "0.0.1",
+  "description": "cesium常用函数封装库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysqluck/cesiumToolHandle.git"
+  },
+  "keywords": [
+    "cesium",
+    "tool"
+  ],
+  "author": "othniel251917",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ysqluck/cesiumToolHandle/issues"
+  },
+  "homepage": "https://github.com/ysqluck/cesiumToolHandle#readme"
+}
